@@ -1,3 +1,5 @@
+# Current Version
+Official release v1.0 
 # Iot-Panel
 IoT ( Internet of things ) control and monitoring panel
 Source code will be uploaded, feel free to contribute
